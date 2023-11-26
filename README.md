@@ -1,7 +1,20 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is puksh
-=============================================================================================================================the \[REDACTED\] of the west----------------------------i love cute and scary things! :3* 🌍  I'm based in \[REDACTED\]* 🖥️  See my portfolio at [\[REDACTED\]](http://[REDACTED])* ✉️  You can contact me at [puksh@poton.me](mailto:puksh@poton.me)* 🚀  I'm currently working on [\[REDACTED\]](http://[REDACTED])* 🧠  I'm learning \[REDACTED\]* 🤝  I'm open to collaborating on \[REDACTED\]* ⚡  \[REDACTED\]
+=============================================================================================================================
 
-### Skills
+the \[REDACTED\] of the west
+----------------------------
+
+i love cute and scary things! :3
+
+*   🌍  I'm based in \[REDACTED\]
+*   🖥️  See my portfolio at [\[REDACTED\]](http://[REDACTED])
+*   ✉️  You can contact me at [puksh@poton.me](mailto:puksh@poton.me)
+*   🚀  I'm currently working on [\[REDACTED\]](http://[REDACTED])
+*   🧠  I'm learning \[REDACTED\]
+*   🤝  I'm open to collaborating on \[REDACTED\]
+*   ⚡  \[REDACTED\]
+
+### Skills 
 
 
 <p align="left">
