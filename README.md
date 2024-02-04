@@ -3,7 +3,7 @@
 i love cute and scary things! :3
 
 *   🌍  I'm based in \[REDACTED\]
-*   🖥️  See my portfolio at [\[kot.li\]](httpSS://kot.li)
+*   🖥️  See my portfolio at [\[kot.li\]](https://kot.li)
 *   ✉️  You can contact me at [puksh@poton.me](mailto:puksh@proton.me)
 *   🚀  I'm currently working on [\[REDACTED\]](http://[REDACTED])
 *   🧠  I'm learning \[REDACTED\]
