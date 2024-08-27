@@ -1,14 +1,10 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is puksh, the \[REDACTED\] of the west
+# Herro everynyan! My name is puksh, meowing every available moment
 
 i love cute and scary things! :3
 
-*   🌍  I'm based in \[REDACTED\]
-*   🖥️  See my portfolio at [\[kot.li\]](https://kot.li)
+*   🌍  I'm based in Poland ![PLgurom](https://github.com/user-attachments/assets/deb18110-f824-43f5-afe1-1b8c40742dcf)
+*   🖥️  Visit my website [\[kot.li\]](https://kot.li)
 *   ✉️  You can contact me at [puksh@poton.me](mailto:meow@kot.li)
-*   🚀  I'm currently working on [\[REDACTED\]]
-*   🧠  I'm learning \[REDACTED\]
-*   🤝  I'm open to collaborating on \[REDACTED\]
-*   ⚡  \[REDACTED\]
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=cute_fluffy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=cute_fluffy&redirect=true)
 
