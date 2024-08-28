@@ -6,7 +6,8 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=cute_fluffy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=cute_fluffy&redirect=true)
 
-[![Years Badge](https://badges.pufler.dev/years/puksh)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/puksh/puksh)] [![Commits Badge](https://badges.pufler.dev/commits/monthly/puksh)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/puksh)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/puksh)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/puksh/puksh)](https://badges.pufler.dev)
+ [![Commits Badge](https://badges.pufler.dev/commits/monthly/puksh)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/puksh)](https://badges.pufler.dev)
 
 ## Skills 
 
