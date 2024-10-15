@@ -4,8 +4,6 @@
 *   🖥️  Visit my website [\[kot.li\]](https://kot.li)
 *   ✉️  You can contact me at [lukasz@kot.li](mailto:lukasz@kot.li)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=cute_fluffy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=cute_fluffy&redirect=true)
-
 [![Years Badge](https://badges.pufler.dev/years/puksh)](https://badges.pufler.dev) ![](https://komarev.com/ghpvc/?username=puksh)
  [![Commits Badge](https://badges.pufler.dev/commits/monthly/puksh)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/puksh)](https://badges.pufler.dev)
 
@@ -36,3 +34,5 @@
   <a href="https://www.linkedin.com/in/[REDACTED]" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 [![Last Stars Display](https://badges.pufler.dev/last-stars/puksh?count=3&padding=15&perRow=3)](https://badges.pufler.dev)
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=cute_fluffy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=cute_fluffy&redirect=true)
