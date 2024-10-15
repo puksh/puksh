@@ -1,8 +1,8 @@
-# herro everynyan! lets meow together! :3
+# herro everynyan! 
 
-*   🌍  I'm based in Poland ![PLgurom](https://github.com/user-attachments/assets/deb18110-f824-43f5-afe1-1b8c40742dcf)
+*   🌍  I'm based in Poland !
 *   🖥️  Visit my website [\[kot.li\]](https://kot.li)
-*   ✉️  You can contact me at [meow@kot.li](mailto:meow@kot.li)
+*   ✉️  You can contact me at [lukasz@kot.li](mailto:lukasz@kot.li)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=cute_fluffy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=cute_fluffy&redirect=true)
 
