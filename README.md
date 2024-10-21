@@ -1,9 +1,5 @@
 # herro everynyan! 
 
-*   🌍  I'm based in Poland !
-*   🖥️  Visit my website [\[kot.li\]](https://kot.li)
-*   ✉️  You can contact me at [lukasz@kot.li](mailto:lukasz@kot.li)
-
 [![Years Badge](https://badges.pufler.dev/years/puksh)](https://badges.pufler.dev) ![](https://komarev.com/ghpvc/?username=puksh)
  [![Commits Badge](https://badges.pufler.dev/commits/monthly/puksh)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/puksh)](https://badges.pufler.dev)
 
