@@ -6,6 +6,10 @@
 ## Skills 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,nodejs,git,java,php,html,css,vue,vscode,opencv,py,mysql,postgresql&theme=light)](https://skillicons.dev)
 
+## Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puksh&theme=transparent)
+
 ## Socials
 
 <p align="left"> <a href="https://www.codepen.io/puksh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a>
