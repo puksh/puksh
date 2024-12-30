@@ -1,4 +1,4 @@
-ja# herro everynyan! 
+# herro everynyan! 
 
 [![Years Badge](https://badges.pufler.dev/years/puksh)](https://badges.pufler.dev) ![](https://komarev.com/ghpvc/?username=puksh)
 
