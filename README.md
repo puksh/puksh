@@ -1,7 +1,6 @@
-# herro everynyan! 
+ja# herro everynyan! 
 
 [![Years Badge](https://badges.pufler.dev/years/puksh)](https://badges.pufler.dev) ![](https://komarev.com/ghpvc/?username=puksh)
- [![Commits Badge](https://badges.pufler.dev/commits/monthly/puksh)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/puksh)](https://badges.pufler.dev)
 
 ## Skills 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,php,html,css,vue,opencv,py,postgresql&theme=light)](https://skillicons.dev)
