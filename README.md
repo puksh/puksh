@@ -7,6 +7,6 @@
   <a href="https://discord.com/users/puksh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="[undefined](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg)" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a>
   <a href="https://www.github.com/puksh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
 
-## Listening to 
+## My languages
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=cute_fluffy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=cute_fluffy&redirect=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puksh)](https://github.com/anuraghazra/github-readme-stats)
